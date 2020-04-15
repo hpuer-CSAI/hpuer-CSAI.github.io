@@ -1,2 +1,3 @@
-# hpuer-CSAI.github.io
-CSAI18's blog
+# 关于
+
+河南理工大学计实验1801班官方博客！
